@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,9 +56,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-#記事投稿サイトの実装プロジェクト
-week22-24の3週間で実装
-
-https://www.figma.com/design/ZmktgeyzwnpoKzZ3231pV1/%E7%B7%8F%E5%90%88%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88?node-id=0-1&p=f&t=XtIBGmPcBqbk6BS7-0
->>>>>>> 48be86c0a1971929e5964aa7b786d9acc1133335
